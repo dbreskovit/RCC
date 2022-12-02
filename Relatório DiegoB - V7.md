@@ -1,198 +1,10 @@
-﻿
 
-**MINISTÉRIO DA EDUCAÇÃO**
+# **RELATÓRIO DE ATIVIDADES DE ESTÁGIO**
 
-**SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA**
 
-**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA FARROUPILHA**
 
-***CAMPUS* SANTO AUGUSTO**
 
-
-
-
-**CURSO TÉCNICO EM INFORMÁTICA**
-
-
-
-
-**DIEGO BRESKOVIT MORCELLI**
-
-
-
-
-
-**RELATÓRIO DE ATIVIDADES DE ESTÁGIO**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**SANTO AUGUSTO**
-
-**2022**
-
-**MINISTÉRIO DA EDUCAÇÃO**
-
-**SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA**
-
-**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA FARROUPILHA**
-
-***CAMPUS* SANTO AUGUSTO**
-
-
-
-
-
-
-
-**DIEGO BRESKOVIT MORCELLI**
-
-
-
-
-
-
-**RELATÓRIO DE ATIVIDADES DE ESTÁGIO**
-
-
-
-
-
-
-
-Trabalho apresentado como requisito parcial para a obtenção do título de Técnico em Informática do Curso Técnico em Informática Integrado do Instituto Federal de Educação Ciência e Tecnologia Farroupilha – *Campus* Santo Augusto.
-
-Orientador(a): Cleitom Richter
-
-
-
-
-
-
-
-
-
-
-
-
-**SANTO AUGUSTO**
-
-**2022****MINISTÉRIO DA EDUCAÇÃO**
-
-**SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA**
-
-**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA FARROUPILHA**
-
-***CAMPUS* SANTO AUGUSTO**
-
-
-
-O orientador, Prof. Cleitom Richter, e o estagiário Diego Breskovit, abaixo assinados, certificam-se do teor do Relatório de Atividades de Estágio, do Curso Técnico em Informática Integrado.
-
-RELATÓRIO DE ATIVIDADES DE ESTÁGIO
-
-elaborado por 
-
-Diego Breskovit
-
-como requisito parcial para a obtenção do título de Técnico em Informática
-
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Cleitom Richter 
-
-(orientador)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Diego Breskovit
-
-(Estagiário)
-
-
-
-
-
-
-
-
-
-
-
-
-
-**SANTO AUGUSTO**
-
-**2022**
-
-**DADOS DE IDENTIFICAÇÃO**
-
-1 Estagiário
-
-1.1 Nome: Diego Breskovit Morcelli
-
-1.2 Curso: Técnico em Informática
-
-1.3 Turma: 3° INFO 2022
-
-1.4 Endereço: Rua Itajaí, 542
-
-1.5 Município e Estado: Tenente Portela/RS
-
-1.6 CEP: 98500-000
-
-1.7 Telefone(s): 55 9 8107 2942
-
-1.8 E-Mail: contato.diegobreskovit@gmail.com 
-
-2 Empresa
-
-2.1 Nome: Prefeitura Municipal de Tenente Portela
-
-2.2 Endereço: Praça Tenente Portela, 23
-
-2.3 Município e Estado: Tenente Portela/RS
-
-2.4 CEP: 98500-000
-
-2.5 Fone: 55 3551 3400
-
-3 Estágio
-
-3.1 Área de Atuação: Informática
-
-3.2 Coordenador do Curso: Paulo Henrique de Souza Oliveira
-
-3.3 Professor Orientador do IFFAR - *Campus* Santo Augusto: Cleitom José Richter
-
-3.4 Supervisor de Estágio na empresa: Marcelo Castro dos Santos
-
-3.5 Carga Horária Total: 100 horas
-
-3.6 Data de início e término: 03/01/2022 a 25/01/2022
-
-
-
-**AGRADECIMENTOS**
+### **AGRADECIMENTOS**
 
 Agradeço primeiramente a Deus, pela vida e por estar presente em todos os momentos dando-me força, persistência e sabedoria. A minha mãe Clair e meu irmão Dionatan, por estarem ao meu lado, tanto nos momentos bons quanto nas dificuldades, e, pela compreensão dos momentos de minha ausência.
 
@@ -203,50 +15,7 @@ Agradeço aos demais professores que tiveram importante papel na minha formaçã
 Aos colegas, pela amizade e trocas de experiências, em especial Camila, Davi e Otávio, pelo incentivo, apoio e conselhos. Estas pessoas que fizeram parte de minha formação e sem dúvida, vão continuar presentes em minha vida.
 
 
-
-
-
-
-
-Dedico o presente relatório às pessoas 
-
-como *Senku Ishigami* que motivado 
-
-pela ciência decidiram usar a mente 
-
-para construir um mundo melhor.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*“GGWWWRGHH.”*
-
-*(CHEWBACCA)*
-
-
-
-**LISTA DE FIGURAS**
+### **LISTA DE FIGURAS**
 
 [Figura 1 - Fachada da Prefeitura Municipal de Tenente Portela	13](#_Toc115277395)
 
@@ -323,10 +92,7 @@ para construir um mundo melhor.
 [Figura 37 - Captura de tela: Repositório no GitHub	48](#_Toc115277431)
 
 
-
-
-
-**LISTA DE ABREVIATURAS**
+### **LISTA DE ABREVIATURAS**
 
 AD	= *Active Directory*
 
@@ -371,8 +137,7 @@ USB 	= *Universal Serial Bus*
 UTP	= *Unshielded Twisted Pair*
 
 
-
-**SUMÁRIO**
+### **SUMÁRIO**
 
 [1 	INTRODUÇÃO	11****](#_TOC115277432)**
 
@@ -420,24 +185,21 @@ UTP	= *Unshielded Twisted Pair*
 
 [**5 	CONSIDERAÇÕES FINAIS	49****](#_TOC115277454)
 
-`	`[REFERÊNCIAS	50****](#_TOC115277455)**
+[REFERÊNCIAS	50****](#_TOC115277455)**
 
-`	`[ANEXOS	53****](#_TOC115277456)**
+[ANEXOS	53****](#_TOC115277456)**
 
-`	`[ANEXO A - CRIANDO UM *PENDRIVE* *BOOTÁVEL* COM O RUFUS	54](#_TOC115277457)
+[ANEXO A - CRIANDO UM *PENDRIVE* *BOOTÁVEL* COM O RUFUS	54](#_TOC115277457)
 
-`	`[ANEXO B - CONFIGURANDO A BIOS PARA *BOOT*	56](#_TOC115277458)
+[ANEXO B - CONFIGURANDO A BIOS PARA *BOOT*	56](#_TOC115277458)
 
-`	`[APÊNDICES	58****](#_TOC115277459)**
+[APÊNDICES	58****](#_TOC115277459)**
 
-`	`[APÊNDICE A - INSTALAÇÃO WINDOWS 7	59](#_TOC115277460)
+[APÊNDICE A - INSTALAÇÃO WINDOWS 7	59](#_TOC115277460)
 
-`	`[APÊNDICE B - INSTALAÇÃO WINDOWS 10	62](#_TOC115277461)
-
-
+[APÊNDICE B - INSTALAÇÃO WINDOWS 10	62](#_TOC115277461)
 
 
-49
 # **1 INTRODUÇÃO** 
 
 Com o advento da Revolução Técnico-Científica e Informacional, a tecnologia se desenvolveu em ritmo cada vez maior e levou a profundas mudanças na forma como o ser humano interage com o mundo. Nesse sentido, o indivíduo passou a estar cada vez mais conectado em rede, diversas atividades, que antes deviam ser feitas presencialmente, hoje podem ser efetivadas com apenas alguns cliques.
