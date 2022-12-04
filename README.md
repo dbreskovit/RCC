@@ -184,11 +184,6 @@ Fonte: elaborado pelo autor (2022).
 Os backups de recuperação do sistema operacional, eram realizados nos computadores com cunho administrativo que possuíam dados importantes e precisavam de uma seguridade maior, caso houvesse uma pane no micro. Semelhante ao backup de arquivos (Seção 2.4), nessa conjuntura, utiliza-se de um *software* para realizar essa ação, a ferramenta do AOMEI Backupper[^8].
 
 
-
-
-
-Mensagem ultra secreta escondida: https://youtu.be/dQw4w9WgXcQ
-
 Figura 7 - Captura de tela: AOMEI Backupper
 
 Fonte: elaborado pelo autor (2022).
