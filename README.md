@@ -8,7 +8,7 @@
 
 Agradeço primeiramente a Deus, pela vida e por estar presente em todos os momentos dando-me força, persistência e sabedoria. A minha mãe e meu irmão, por estarem ao meu lado, tanto nos momentos bons quanto nas dificuldades, e, pela compreensão dos momentos de minha ausência.
 
-Agradeço ao meu professor orientador Cleitom Richter pela orientação, pelos ensinamentos, paciência e compreensão ao longo desta trajetória, e a todos os professores das disciplinas técnicas que contribuíram para minha formação. 
+Agradeço ao meu professor orientador pela orientação, pelos ensinamentos, paciência e compreensão ao longo desta trajetória, e a todos os professores das disciplinas técnicas que contribuíram para minha formação. 
 
 Agradeço aos demais professores que tiveram importante papel na minha formação acadêmica, bem como aos funcionários da instituição, em especial a organização da escrita acadêmica, pois, favoreceu o desenvolvimento do relatório, através das oficinas de formatação de textos, citações e referências em trabalhos acadêmicos de acordo com a Associação Brasileira de Normas Técnicas.
 
