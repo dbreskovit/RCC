@@ -6,7 +6,7 @@
 
 ### **AGRADECIMENTOS**
 
-Agradeço primeiramente a Deus, pela vida e por estar presente em todos os momentos dando-me força, persistência e sabedoria. A minha mãe Clair e meu irmão Dionatan, por estarem ao meu lado, tanto nos momentos bons quanto nas dificuldades, e, pela compreensão dos momentos de minha ausência.
+Agradeço primeiramente a Deus, pela vida e por estar presente em todos os momentos dando-me força, persistência e sabedoria. A minha mãe e meu irmão, por estarem ao meu lado, tanto nos momentos bons quanto nas dificuldades, e, pela compreensão dos momentos de minha ausência.
 
 Agradeço ao meu professor orientador Cleitom Richter pela orientação, pelos ensinamentos, paciência e compreensão ao longo desta trajetória, e a todos os professores das disciplinas técnicas que contribuíram para minha formação. 
 
